@@ -1,0 +1,7 @@
+git clone https://github.com/ValeriaKormshchikova/proga
+git remote set-url origin https://ValeriaKormshchikova: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@github.com/ValeriaKormshchikova/proga
+git status
+git add <file_name>
+git commit -m "message"
+git push -u origin main
+git remote show origin
