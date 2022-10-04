@@ -2,6 +2,6 @@
 
 int main(){
 	//dratuty
-	printf("Hello, world!");
+	printf("Hello, cat!");
 	return 0
 }
