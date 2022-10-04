@@ -3,5 +3,5 @@
 int main(){
 	//dratuty
 	printf("Hello, cat!");
-	return 0
+	return 0;
 }
