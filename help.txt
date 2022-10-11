@@ -7,3 +7,4 @@ git push -u origin main
 git remote show origin
 git restore --staged file_name
 git checkout -- file_name
+git fetch
